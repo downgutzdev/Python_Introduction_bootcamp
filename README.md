@@ -1,9 +1,10 @@
 # 🐍 Python Introduction Bootcamp
 
-[🇧🇷 Versão em Português](#-versão-em-português) | [🇺🇸 English Version](#-us-english-version)
+[🇧🇷 Versão em Português](#pt) | [🇺🇸 English Version](#en)
 
 ---
 
+<a id="pt"></a>
 ## 🇧🇷 Versão em Português
 
 > Repositório de estudos do Bootcamp **Python Developer – DIO**  
@@ -32,25 +33,20 @@ Todos os códigos foram escritos no **VS Code** e versionados com **Git/GitHub**
 
 ---
 
+<a id="en"></a>
 ## 🇺🇸 English Version
 
 > Study repository from the **Python Developer – DIO Bootcamp**  
 > Focused on the **first Programming Logic lessons** using Python.
 
----
-
 ### 📦 About
 This repository contains the first exercises and examples from the Python bootcamp, serving as a **learning portfolio**.  
 All code was written in **VS Code** and versioned with **Git/GitHub**.
-
----
 
 ### ⚙️ Technologies
 - Python 3.x 🐍
 - VS Code 💻
 - Git & GitHub 🌐
-
----
 
 ### 📁 File Structure
 - `first_program.py` → first “Hello World”
@@ -60,6 +56,3 @@ All code was written in **VS Code** and versioned with **Git/GitHub**.
 - `input_output_functions.py` → input/output functions
 - `main.py` → empty file reserved for future integrations
 - `.gitignore` → ignored files and folders by Git
-
----
-
