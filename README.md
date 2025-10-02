@@ -33,6 +33,8 @@ Todos os códigos foram escritos no **VS Code** e versionados com **Git/GitHub**
 ```bash
 git clone https://github.com/downgutzdev/Python_Introduction_bootcamp.git
 
+---
+
 ## 🇺🇸 English Version
 
 > Study repository from the **Python Developer – DIO Bootcamp**  
@@ -61,6 +63,12 @@ All code was written in **VS Code** and versioned with **Git/GitHub**.
 - `input_output_functions.py` → input/output functions
 - `main.py` → empty file reserved for future integrations
 - `.gitignore` → ignored files and folders by Git
+
+---
+
+## 📝 Notes
+- Este projeto não possui licença e é usado apenas como **portfólio pessoal**.
+- This project has no license and is for **personal portfolio** only.
 
 ---
 
