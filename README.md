@@ -30,9 +30,6 @@ Todos os códigos foram escritos no **VS Code** e versionados com **Git/GitHub**
 ### 🚀 Como clonar
 > (Opcional, apenas para quem quer baixar os arquivos)
 
-```bash
-git clone https://github.com/downgutzdev/Python_Introduction_bootcamp.git
-
 ---
 
 ## 🇺🇸 English Version
@@ -66,14 +63,3 @@ All code was written in **VS Code** and versioned with **Git/GitHub**.
 
 ---
 
-## 📝 Notes
-- Este projeto não possui licença e é usado apenas como **portfólio pessoal**.
-- This project has no license and is for **personal portfolio** only.
-
----
-
-### 🚀 How to Clone
-> (Optional, only for those who want to download the files)
-
-```bash
-git clone https://github.com/downgutzdev/Python_Introduction_bootcamp.git
