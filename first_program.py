@@ -13,6 +13,8 @@ The print function has many parameters, such as sep (used to separate arguments)
 Windows uses CRLF (\r\n) for line breaks
 """
 
+
+
 print("Hello word!")
 
 print(12, 34, sep="-")
